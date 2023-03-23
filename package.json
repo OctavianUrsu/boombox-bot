@@ -1,0 +1,19 @@
+{
+  "name": "boombox-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OctavianUrsu/boombox-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OctavianUrsu/boombox-bot/issues"
+  },
+  "homepage": "https://github.com/OctavianUrsu/boombox-bot#readme"
+}
